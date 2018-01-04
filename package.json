@@ -1,0 +1,26 @@
+{
+  "author": {
+    "email": "bio42@mail.ru",
+    "name": "Payziyev Maxmudjon"
+  },
+  "description": "Homebridge plugin to control rgb strip light ws2812",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "homepage": "https://github.com/maxmudjon/homebridge-ws2812-mqtt-effects",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "homebridge-ws2812-mqtt-effects",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.0.1",
+  "dependencies": {
+    "rgb": "^0.1.0"
+  }
+}
